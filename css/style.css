@@ -18,3 +18,8 @@
     transform: scale(1.3);
     transition: ease-in-out .2s;
 }
+
+.producto-item {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
